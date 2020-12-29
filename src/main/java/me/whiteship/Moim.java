@@ -1,4 +1,4 @@
-package junho.whiteship;
+package me.whiteship;
 
 /**
  * Hello world!
